@@ -1,0 +1,1 @@
+Os humilhados serão exaltados
