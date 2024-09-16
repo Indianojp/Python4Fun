@@ -1,10 +1,10 @@
-Bem-vindo ao meu repositório de Python! 🐍
+Welcome to my Python repository! 🐍
 
-Aqui você encontrará alguns dos meus projetos Pythonicos, onde as chances de funcionar são altas (80% do tempo funciona 100% das vezes). Se algo der errado, provavelmente faz parte do plano. 
+Here you’ll find some of my Pythonic projects, where things work most of the time (80% of the time, it works 100% of the time). If something goes wrong, it’s probably part of the plan.
 
-  **Aqui você encontra:**
-- **Automatizador de Tarefas**: Porque apertar botões manualmente é coisa do passado.
-- **Gerador de Café Virtual**: Infelizmente, não faz café de verdade, mas ajuda na imaginação.
-- **Clean Code**: Programas legíveis e de fácil manutenção (nem sempre tão clean).
+  **Here you’ll find:**
+- **Task Automator**: Because pressing buttons manually is so last century.
+- **Virtual Coffee Generator**: Unfortunately, it doesn’t brew real coffee, but it helps with imagination.
+- **Clean Code**: Readable and maintainable code (not always as clean as it should be).
 
-Sinta-se à vontade para explorar, criticar (gentilmente, por favor) ou apenas rir das soluções criativas.
+Feel free to explore, criticize (gently, please), or just laugh at the creative solutions.
