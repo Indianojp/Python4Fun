@@ -4,7 +4,6 @@ Here you’ll find some of my Pythonic projects, where things work most of the t
 
   **Here you’ll find:**
 - **Task Automator**: Because pressing buttons manually is so last century.
-- **Virtual Coffee Generator**: Unfortunately, it doesn’t brew real coffee, but it helps with imagination.
 - **Clean Code**: Readable and maintainable code (not always as clean as it should be).
 
 Feel free to explore, criticize (gently, please), or just laugh at the creative solutions.
